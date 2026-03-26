@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#757575</color>
+    <color name="colorCurrency">#212121</color>
+    <color name="colorFuel">#212121</color>
+    <color name="colorTemperature">#212121</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorCardBg">#EEEEEE</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#555555</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorInactive">#9E9E9E</color>
+    <color name="colorActive">#212121</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travel Companion</string>
+    <string name="select_category">Select Category</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">CONVERT</string>
+    <string name="result_label">Result</string>
+    <string name="error_empty">Please enter a value</string>
+    <string name="error_invalid">Please enter a valid number</string>
+    <string name="error_negative">Value cannot be negative</string>
+    <string name="error_same_unit">Source and destination are the same!</string>
+</resources>
